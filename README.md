@@ -1,3 +1,3 @@
 # source-sprint-parvathi
-This is a repo for SourceSprint
-The first commit to the repository
+This is a repo for SourceSprint.
+The first commit.
